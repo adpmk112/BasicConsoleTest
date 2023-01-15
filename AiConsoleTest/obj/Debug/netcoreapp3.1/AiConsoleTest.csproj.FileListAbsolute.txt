@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\bin\Debug\netcoreapp3.1\AiConsoleTest.exe
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\bin\Debug\netcoreapp3.1\AiConsoleTest.deps.json
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\bin\Debug\netcoreapp3.1\AiConsoleTest.runtimeconfig.json
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\bin\Debug\netcoreapp3.1\AiConsoleTest.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\bin\Debug\netcoreapp3.1\AiConsoleTest.dll
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\bin\Debug\netcoreapp3.1\AiConsoleTest.pdb
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\obj\Debug\netcoreapp3.1\AiConsoleTest.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\obj\Debug\netcoreapp3.1\AiConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\obj\Debug\netcoreapp3.1\AiConsoleTest.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\obj\Debug\netcoreapp3.1\AiConsoleTest.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\obj\Debug\netcoreapp3.1\AiConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\obj\Debug\netcoreapp3.1\AiConsoleTest.dll
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\obj\Debug\netcoreapp3.1\AiConsoleTest.pdb
+C:\Users\DELL\source\repos\AiConsoleTest\AiConsoleTest\obj\Debug\netcoreapp3.1\AiConsoleTest.genruntimeconfig.cache
